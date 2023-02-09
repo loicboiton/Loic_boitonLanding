@@ -1,0 +1,119 @@
+.graphicbuble{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  width: 62%;
+}
+
+/*.graphicbuble:hover{
+  transform: scale(1.2);
+  transition-timing-function: ease;
+  transition-duration: 300ms;
+}*/
+
+
+#gd{
+  font-family: stolzl;
+  width: 100px;
+  height: 100px;
+  color: white;
+  font-size: 20px;
+  display: flex;
+  justify-content: center;
+  background: rgb(148,77,153);
+background: linear-gradient(141deg, rgba(148,77,153,1) 0%, rgba(206,149,221,1) 100%);
+  box-shadow: 1px 10px 18px -5px rgb(0 0 0 / 62%);
+  padding: 40px;
+  border-radius: 100px;
+  align-items: center;
+
+}
+
+#gd:hover{
+  transform: scale(1.2);
+  transition-timing-function: ease;
+  transition-duration: 300ms;
+}
+
+.graphicdesignfooter{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  align-items: center;
+  margin-top: 100px;
+}
+
+#graphicdesignbutton{
+  font-family: stolzl;
+  font-size: 20px;
+  font-weight: bolder;
+  color: violet;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-right: 25px;
+  padding-left: 25px;
+
+}
+
+.mdbuble{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  width: 62%;
+}
+
+/*.graphicbuble:hover{
+  transform: scale(1.2);
+  transition-timing-function: ease;
+  transition-duration: 300ms;
+}*/
+
+
+#md{
+  font-family: stolzl;
+  width: 100px;
+  height: 100px;
+  color: white;
+  font-size: 20px;
+  display: flex;
+  justify-content: center;
+  background: rgb(108,41,224);
+  background: linear-gradient(149deg, rgba(108,41,224,1) 0%, rgba(206,149,221,1) 100%);
+  box-shadow: 1px 10px 18px -5px rgb(0 0 0 / 62%);
+  padding: 40px;
+  border-radius: 100px;
+  align-items: center;
+
+}
+
+.mdfooter{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  align-items: center;
+  margin-top: 100px;
+}
+
+#mdbutton{
+  font-family: stolzl;
+  font-size: 20px;
+  font-weight: bolder;
+  color: #6C29E0;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-right: 25px;
+  padding-left: 25px;
+
+}
+
+#md:hover{
+  transform: scale(1.2);
+  transition-timing-function: ease;
+  transition-duration: 300ms;
+
+
+}
+
+h4{
+  text-align: center;
+}

@@ -1,0 +1,14 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.container{
+  background-image: url('../images/Groupe 1.png');
+  height: 100vh;
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+

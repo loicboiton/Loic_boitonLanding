@@ -1,0 +1,22 @@
+.title{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 50vh;
+}
+
+h1{
+  font-family: Stolzl;
+  font-size: 80px;
+  font-weight: bolder;
+  color: white;
+  letter-spacing: 3px;
+}
+#newway{
+font-family: stolzl;
+font-size: 40px;
+letter-spacing: 1px;
+color: white;
+}

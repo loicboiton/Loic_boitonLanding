@@ -1,0 +1,18 @@
+@import url("components/container.css");
+@import url("components/button.css");
+@import url("components/navbar.css");
+@import url("components/titles.css");
+@import url("components/cards.css");
+@import url("components/container2.css");
+@import url("components/ourcampustitles.css");
+@import url("components/container3.css");
+@import url("components/formationtitles.css");
+@import url("components/graphicdesigncontainer.css");
+@import url("components/graphicbuble.css");
+@import url("components/contactcontainer.css");
+@import url("components/footercontainer.css");
+
+
+html{
+  scroll-behavior: smooth;
+}
