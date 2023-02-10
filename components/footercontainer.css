@@ -47,6 +47,14 @@
 
 }
 
-.fa-brands fa-instagram{
+.credits{
   font-family: stolzl;
+  font-size: 20px;
+  display: flex;
+  justify-content: center;
+  padding-bottom: 20px;
+}
+
+.credits a{
+  text-decoration: none;
 }
